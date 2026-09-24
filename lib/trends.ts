@@ -1,0 +1,1 @@
+import {demoTrends,Trend} from "./demo";export async function getTrends():Promise<Trend[]>{return demoTrends;}
